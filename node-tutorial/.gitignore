@@ -1,0 +1,6 @@
+node_modules
+
+appsettings.js
+nodemon.json
+csr.pem
+key.pem
